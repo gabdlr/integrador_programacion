@@ -9,16 +9,6 @@ def agregar_nodo(padre, hijo):
         return
     return padre[1].append(hijo)
 
-def recorrer_arbol(nodo):
-    print(nodo)
-    hijos = nodo[1]
-    if len(hijos) == 0:
-        return
-    for hijo in hijos:
-        print(hijo)
-        if len(hijo[1]) != 0:
-            recorrer_arbol(hijo[1][0])
-
 def buscar_en_arbol(fuente, objetivo, resultado=False):
     if resultado is True:
         return resultado

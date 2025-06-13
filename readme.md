@@ -2,7 +2,7 @@
 
 Esta herramienta permite diagramar la estructura de una organización según las relaciones superior -> subordinado.
 
-[Video youtube](https://www.youtube.com/watch?v=KkL2CSzjZjo)
+[Video google drive](https://drive.google.com/file/d/18LkLitSB_HVh_AGR2k9IOSHiwEp-n4k0/view?usp=drive_link)
 
 ## Modo de uso
 1. Crear una organización
